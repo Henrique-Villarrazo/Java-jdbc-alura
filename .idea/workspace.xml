@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65ccecbe-f1ed-4eca-ad8a-139d097b90b3" name="Changes" comment="&quot;Estudo e projeto finalizado.&quot;" />
+    <list default="true" id="65ccecbe-f1ed-4eca-ad8a-139d097b90b3" name="Changes" comment="&quot;Estudo e projeto finalizado.&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/byte-bank-alura-curso_jdbc_inicio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/BytebankApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/ConnectionFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/RegraDeNegocioException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/cliente/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/cliente/DadosCadastroCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/ContaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/bytebank/domain/conta/DadosAberturaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/BytebankApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/ConnectionFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/RegraDeNegocioException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/cliente/DadosCadastroCliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/ContaDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/ContaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/alura/bytebank/domain/conta/DadosAberturaConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +46,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,9 +70,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/henri/Desktop/byte-bank-alura-curso_jdbc_inicio",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.3321839"
   }
 }]]></component>
   <component name="RunAnythingCache">
@@ -91,5 +124,16 @@
       <updated>1693856996760</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
